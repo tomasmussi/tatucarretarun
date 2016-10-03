@@ -1,0 +1,14 @@
+hiloCron.o hiloCron.deps : hiloCron.cpp hiloCron.h common_SocketCliente.h \
+ common_Socket.h common_Thread.h common_Mutex.h cronometro.h
+
+hiloCron.h:
+
+common_SocketCliente.h:
+
+common_Socket.h:
+
+common_Thread.h:
+
+common_Mutex.h:
+
+cronometro.h:

@@ -1,0 +1,7 @@
+SMS.G= 0.0 -0.3
+SMS.Damping= 0.05
+Video.Width= 1000
+Video.Height= 600
+Video.Depth= 32
+App.Font= vera12.fnt
+App.PhysMultiplier= 1

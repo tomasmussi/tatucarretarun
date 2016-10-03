@@ -1,0 +1,98 @@
+InterfazEdicion.o InterfazEdicion.deps : InterfazEdicion.cpp InterfazEdicion.h Angulo.h \
+ constantes.h Mapa.h Elemento.h Coordenada.h FabricaDeElementos.h Masa.h \
+ ElementoCircular.h Rueda.h PuntoDeEnlace.h ElementoEnlazable.h \
+ PuntoFijo.h Barra.h ElementoLongitudinal.h Soga.h Plataforma.h Cinta.h \
+ Cohete.h Llegada.h Ventana.h PanelContenedor.h client_ChatDoble.h \
+ common_Mutex.h Reloj.h constantes_sms.h hiloCron.h \
+ common_SocketCliente.h common_Socket.h common_Thread.h cronometro.h \
+ Boton.h InterfazMapa.h sms_app.h config_file.h config.h \
+ spring_mass_system.h vector2.h elementManager.h element.h zonaLlegada.h \
+ video.h loader.h ParserXML.h
+
+InterfazEdicion.h:
+
+Angulo.h:
+
+constantes.h:
+
+Mapa.h:
+
+Elemento.h:
+
+Coordenada.h:
+
+FabricaDeElementos.h:
+
+Masa.h:
+
+ElementoCircular.h:
+
+Rueda.h:
+
+PuntoDeEnlace.h:
+
+ElementoEnlazable.h:
+
+PuntoFijo.h:
+
+Barra.h:
+
+ElementoLongitudinal.h:
+
+Soga.h:
+
+Plataforma.h:
+
+Cinta.h:
+
+Cohete.h:
+
+Llegada.h:
+
+Ventana.h:
+
+PanelContenedor.h:
+
+client_ChatDoble.h:
+
+common_Mutex.h:
+
+Reloj.h:
+
+constantes_sms.h:
+
+hiloCron.h:
+
+common_SocketCliente.h:
+
+common_Socket.h:
+
+common_Thread.h:
+
+cronometro.h:
+
+Boton.h:
+
+InterfazMapa.h:
+
+sms_app.h:
+
+config_file.h:
+
+config.h:
+
+spring_mass_system.h:
+
+vector2.h:
+
+elementManager.h:
+
+element.h:
+
+zonaLlegada.h:
+
+video.h:
+
+loader.h:
+
+ParserXML.h:

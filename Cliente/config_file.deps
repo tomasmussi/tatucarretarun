@@ -1,0 +1,5 @@
+config_file.o config_file.deps : config_file.cpp config_file.h config.h
+
+config_file.h:
+
+config.h:

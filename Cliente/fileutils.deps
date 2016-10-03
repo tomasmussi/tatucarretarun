@@ -1,0 +1,3 @@
+fileutils.o fileutils.deps : fileutils.cpp fileutils.h
+
+fileutils.h:

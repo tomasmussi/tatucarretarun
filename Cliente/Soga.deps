@@ -1,0 +1,21 @@
+Soga.o Soga.deps : Soga.cpp Soga.h ElementoLongitudinal.h Elemento.h Coordenada.h \
+ Angulo.h constantes.h PuntoDeEnlace.h ElementoEnlazable.h \
+ ElementoCircular.h
+
+Soga.h:
+
+ElementoLongitudinal.h:
+
+Elemento.h:
+
+Coordenada.h:
+
+Angulo.h:
+
+constantes.h:
+
+PuntoDeEnlace.h:
+
+ElementoEnlazable.h:
+
+ElementoCircular.h:

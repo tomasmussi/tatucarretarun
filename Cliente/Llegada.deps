@@ -1,0 +1,12 @@
+Llegada.o Llegada.deps : Llegada.cpp Llegada.h Coordenada.h Angulo.h constantes.h \
+ Elemento.h
+
+Llegada.h:
+
+Coordenada.h:
+
+Angulo.h:
+
+constantes.h:
+
+Elemento.h:

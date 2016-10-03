@@ -1,0 +1,19 @@
+ElementoLongitudinal.o ElementoLongitudinal.deps : ElementoLongitudinal.cpp ElementoLongitudinal.h \
+ Elemento.h Coordenada.h Angulo.h constantes.h PuntoDeEnlace.h \
+ ElementoEnlazable.h ElementoCircular.h
+
+ElementoLongitudinal.h:
+
+Elemento.h:
+
+Coordenada.h:
+
+Angulo.h:
+
+constantes.h:
+
+PuntoDeEnlace.h:
+
+ElementoEnlazable.h:
+
+ElementoCircular.h:

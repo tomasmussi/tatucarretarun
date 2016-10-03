@@ -1,0 +1,18 @@
+Rueda.o Rueda.deps : Rueda.cpp Rueda.h ElementoCircular.h Elemento.h Coordenada.h \
+ Angulo.h constantes.h PuntoDeEnlace.h ElementoEnlazable.h
+
+Rueda.h:
+
+ElementoCircular.h:
+
+Elemento.h:
+
+Coordenada.h:
+
+Angulo.h:
+
+constantes.h:
+
+PuntoDeEnlace.h:
+
+ElementoEnlazable.h:

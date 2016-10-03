@@ -1,0 +1,69 @@
+spring_mass_system.o spring_mass_system.deps : spring_mass_system.cpp spring_mass_system.h \
+ config.h vector2.h hiloCron.h common_SocketCliente.h common_Socket.h \
+ common_Thread.h common_Mutex.h cronometro.h elementManager.h element.h \
+ zonaLlegada.h Mapa.h Elemento.h Coordenada.h Angulo.h constantes.h \
+ FabricaDeElementos.h Masa.h ElementoCircular.h Rueda.h PuntoDeEnlace.h \
+ ElementoEnlazable.h PuntoFijo.h Barra.h ElementoLongitudinal.h Soga.h \
+ Plataforma.h Cinta.h Cohete.h Llegada.h
+
+spring_mass_system.h:
+
+config.h:
+
+vector2.h:
+
+hiloCron.h:
+
+common_SocketCliente.h:
+
+common_Socket.h:
+
+common_Thread.h:
+
+common_Mutex.h:
+
+cronometro.h:
+
+elementManager.h:
+
+element.h:
+
+zonaLlegada.h:
+
+Mapa.h:
+
+Elemento.h:
+
+Coordenada.h:
+
+Angulo.h:
+
+constantes.h:
+
+FabricaDeElementos.h:
+
+Masa.h:
+
+ElementoCircular.h:
+
+Rueda.h:
+
+PuntoDeEnlace.h:
+
+ElementoEnlazable.h:
+
+PuntoFijo.h:
+
+Barra.h:
+
+ElementoLongitudinal.h:
+
+Soga.h:
+
+Plataforma.h:
+
+Cinta.h:
+
+Cohete.h:
+
+Llegada.h:

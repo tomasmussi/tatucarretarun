@@ -1,0 +1,3 @@
+cronometro.o cronometro.deps : cronometro.cpp cronometro.h
+
+cronometro.h:

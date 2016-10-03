@@ -1,0 +1,7 @@
+Coordenada.o Coordenada.deps : Coordenada.cpp Coordenada.h Angulo.h constantes.h
+
+Coordenada.h:
+
+Angulo.h:
+
+constantes.h:

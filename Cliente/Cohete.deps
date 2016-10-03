@@ -1,0 +1,21 @@
+Cohete.o Cohete.deps : Cohete.cpp Cohete.h ElementoLongitudinal.h Elemento.h \
+ Coordenada.h Angulo.h constantes.h PuntoDeEnlace.h ElementoEnlazable.h \
+ ElementoCircular.h
+
+Cohete.h:
+
+ElementoLongitudinal.h:
+
+Elemento.h:
+
+Coordenada.h:
+
+Angulo.h:
+
+constantes.h:
+
+PuntoDeEnlace.h:
+
+ElementoEnlazable.h:
+
+ElementoCircular.h:

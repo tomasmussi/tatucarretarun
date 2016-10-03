@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mapa>
+	<nombre>escenario4</nombre>
+	<plata>3000</plata>
+	<elementos>
+		<elemento>
+			<tipo>Longitudinal:Cinta</tipo>
+			<magnitud>572</magnitud>
+			<angulo>391</angulo>
+			<posicion>
+				<x>223</x>
+				<y>421</y>
+			</posicion>
+			<extremo_opuesto>
+				<x>713</x>
+				<y>126</y>
+			</extremo_opuesto>
+		</elemento>
+	<habilitados>
+		<Masa>NO</Masa>
+		<Punto_Fijo>NO</Punto_Fijo>
+		<Rueda>SI</Rueda>
+		<Barra>SI</Barra>
+		<Plataforma>SI</Plataforma>
+		<Soga>NO</Soga>
+		<Cinta>SI</Cinta>
+		<Cohete>SI</Cohete>
+	</habilitados>
+	</elementos>
+</mapa>

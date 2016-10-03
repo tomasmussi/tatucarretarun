@@ -1,0 +1,16 @@
+PuntoFijo.o PuntoFijo.deps : PuntoFijo.cpp PuntoFijo.h ElementoEnlazable.h \
+ ElementoCircular.h Elemento.h Coordenada.h Angulo.h constantes.h
+
+PuntoFijo.h:
+
+ElementoEnlazable.h:
+
+ElementoCircular.h:
+
+Elemento.h:
+
+Coordenada.h:
+
+Angulo.h:
+
+constantes.h:

@@ -1,0 +1,16 @@
+PuntoDeEnlace.o PuntoDeEnlace.deps : PuntoDeEnlace.cpp PuntoDeEnlace.h ElementoEnlazable.h \
+ ElementoCircular.h Elemento.h Coordenada.h Angulo.h constantes.h
+
+PuntoDeEnlace.h:
+
+ElementoEnlazable.h:
+
+ElementoCircular.h:
+
+Elemento.h:
+
+Coordenada.h:
+
+Angulo.h:
+
+constantes.h:

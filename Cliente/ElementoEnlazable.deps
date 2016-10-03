@@ -1,0 +1,14 @@
+ElementoEnlazable.o ElementoEnlazable.deps : ElementoEnlazable.cpp ElementoEnlazable.h \
+ ElementoCircular.h Elemento.h Coordenada.h Angulo.h constantes.h
+
+ElementoEnlazable.h:
+
+ElementoCircular.h:
+
+Elemento.h:
+
+Coordenada.h:
+
+Angulo.h:
+
+constantes.h:

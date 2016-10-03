@@ -1,0 +1,77 @@
+client_InterfazJugarSolo.o client_InterfazJugarSolo.deps : client_InterfazJugarSolo.cpp \
+ client_InterfazJugarSolo.h common_Thread.h common_Mutex.h Mapa.h \
+ Elemento.h Coordenada.h Angulo.h constantes.h FabricaDeElementos.h \
+ Masa.h ElementoCircular.h Rueda.h PuntoDeEnlace.h ElementoEnlazable.h \
+ PuntoFijo.h Barra.h ElementoLongitudinal.h Soga.h Plataforma.h Cinta.h \
+ Cohete.h Llegada.h InterfazEdicion.h Ventana.h PanelContenedor.h \
+ client_ChatDoble.h Reloj.h constantes_sms.h hiloCron.h \
+ common_SocketCliente.h common_Socket.h cronometro.h Boton.h \
+ InterfazMapa.h
+
+client_InterfazJugarSolo.h:
+
+common_Thread.h:
+
+common_Mutex.h:
+
+Mapa.h:
+
+Elemento.h:
+
+Coordenada.h:
+
+Angulo.h:
+
+constantes.h:
+
+FabricaDeElementos.h:
+
+Masa.h:
+
+ElementoCircular.h:
+
+Rueda.h:
+
+PuntoDeEnlace.h:
+
+ElementoEnlazable.h:
+
+PuntoFijo.h:
+
+Barra.h:
+
+ElementoLongitudinal.h:
+
+Soga.h:
+
+Plataforma.h:
+
+Cinta.h:
+
+Cohete.h:
+
+Llegada.h:
+
+InterfazEdicion.h:
+
+Ventana.h:
+
+PanelContenedor.h:
+
+client_ChatDoble.h:
+
+Reloj.h:
+
+constantes_sms.h:
+
+hiloCron.h:
+
+common_SocketCliente.h:
+
+common_Socket.h:
+
+cronometro.h:
+
+Boton.h:
+
+InterfazMapa.h:

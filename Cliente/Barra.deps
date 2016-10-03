@@ -1,0 +1,21 @@
+Barra.o Barra.deps : Barra.cpp Barra.h ElementoLongitudinal.h Elemento.h Coordenada.h \
+ Angulo.h constantes.h PuntoDeEnlace.h ElementoEnlazable.h \
+ ElementoCircular.h
+
+Barra.h:
+
+ElementoLongitudinal.h:
+
+Elemento.h:
+
+Coordenada.h:
+
+Angulo.h:
+
+constantes.h:
+
+PuntoDeEnlace.h:
+
+ElementoEnlazable.h:
+
+ElementoCircular.h:

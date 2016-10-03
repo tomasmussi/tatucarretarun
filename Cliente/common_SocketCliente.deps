@@ -1,0 +1,6 @@
+common_SocketCliente.o common_SocketCliente.deps : common_SocketCliente.cpp common_SocketCliente.h \
+ common_Socket.h
+
+common_SocketCliente.h:
+
+common_Socket.h:

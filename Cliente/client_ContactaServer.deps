@@ -1,0 +1,13 @@
+client_ContactaServer.o client_ContactaServer.deps : client_ContactaServer.cpp \
+ client_ContactaServer.h common_SocketCliente.h common_Socket.h \
+ common_Thread.h common_Mutex.h
+
+client_ContactaServer.h:
+
+common_SocketCliente.h:
+
+common_Socket.h:
+
+common_Thread.h:
+
+common_Mutex.h:

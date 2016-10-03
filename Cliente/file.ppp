@@ -1,0 +1,112 @@
+Boton.cpp:	ventana->desclickearBotones(this->getId());
+Boton.cpp~:	ventana->desclickearBotones(this->getId());
+Coincidencia en el fichero binario Boton.o
+Coincidencia en el fichero binario client
+client_ChatMultijugador.cpp:	g_signal_connect(G_OBJECT(botonAceptar), "clicked", G_CALLBACK(apretar_boton_aceptar), this);
+client_ChatMultijugador.cpp:	g_signal_connect(G_OBJECT(botonCerrar), "clicked", G_CALLBACK(cerrar_ventana), ventana);
+Coincidencia en el fichero binario client_ChatMultijugador.o
+client_InterfazBatalla.cpp:				gtk_signal_connect_object (GTK_OBJECT (boton), "clicked", GTK_SIGNAL_FUNC (gtk_widget_destroy), GTK_OBJECT 							(alerta));
+client_InterfazBatalla.cpp:				gtk_signal_connect_object (GTK_OBJECT (boton), "clicked", GTK_SIGNAL_FUNC (gtk_widget_destroy), GTK_OBJECT 							(alerta));
+client_InterfazBatalla.cpp~:				gtk_signal_connect_object (GTK_OBJECT (boton), "clicked", GTK_SIGNAL_FUNC (gtk_widget_destroy), GTK_OBJECT 							(alerta));
+client_InterfazBatalla.cpp~:				gtk_signal_connect_object (GTK_OBJECT (boton), "clicked", GTK_SIGNAL_FUNC (gtk_widget_destroy), GTK_OBJECT 							(alerta));
+Coincidencia en el fichero binario client_InterfazBatalla.o
+client_InterfazGrafica.cpp:	g_signal_connect(G_OBJECT(boton), "clicked", G_CALLBACK(cerrar_ventana), alerta);
+client_InterfazGrafica.cpp:	g_signal_connect(G_OBJECT(boton), "clicked", G_CALLBACK(conectar), datos);
+client_InterfazGrafica.cpp:	g_signal_connect(G_OBJECT(botonNo), "clicked", G_CALLBACK(rechazarBatalla), datos);
+client_InterfazGrafica.cpp:	g_signal_connect(G_OBJECT(botonSi), "clicked", G_CALLBACK(aceptarBatalla), datos);
+client_InterfazGrafica.cpp:	g_signal_connect(G_OBJECT(botonOk), "clicked", G_CALLBACK(modificar_archivo_gravedad), datos);
+client_InterfazGrafica.cpp:	g_signal_connect(G_OBJECT(botonCancelar), "clicked", G_CALLBACK(cerrar_ventana), ventanaGravedad);
+client_InterfazGrafica.cpp:	gtk_signal_connect(GTK_OBJECT(botonContinuar), "clicked", GTK_SIGNAL_FUNC(jugar_solo), pthis);
+client_InterfazGrafica.cpp:	gtk_signal_connect_object (GTK_OBJECT (botonContinuar), "clicked", GTK_SIGNAL_FUNC (gtk_widget_destroy), GTK_OBJECT (ventanaResultado));
+client_InterfazGrafica.cpp:	gtk_signal_connect_object (GTK_OBJECT (botonTerminar), "clicked", GTK_SIGNAL_FUNC (gtk_widget_destroy), GTK_OBJECT (ventanaResultado));
+client_InterfazGrafica.cpp:	g_signal_connect(G_OBJECT(botonConectarAuto), "clicked", G_CALLBACK(apretar_boton_conectar_auto), this);
+client_InterfazGrafica.cpp:	g_signal_connect(G_OBJECT(botonConectar), "clicked", G_CALLBACK(apretar_boton_conectar), this);
+client_InterfazGrafica.cpp:	g_signal_connect(G_OBJECT(botonAceptar), "clicked", G_CALLBACK(apretar_boton_aceptar), this);
+client_InterfazGrafica.cpp:	g_signal_connect(G_OBJECT(botonDesconectar), "clicked", G_CALLBACK(desconectar), this);
+client_InterfazGrafica.cpp:	g_signal_connect(G_OBJECT(botonJugar), "clicked", G_CALLBACK(jugar_solo), this);
+client_InterfazGrafica.cpp:	g_signal_connect(G_OBJECT(botonJugarCon), "clicked", G_CALLBACK(jugar_batalla), this);
+client_InterfazGrafica.cpp:	g_signal_connect(G_OBJECT(botonGravedad), "clicked", G_CALLBACK(modificar_gravedad), this);
+client_InterfazGrafica.cpp~:	g_signal_connect(G_OBJECT(boton), "clicked", G_CALLBACK(cerrar_ventana), alerta);
+client_InterfazGrafica.cpp~:	g_signal_connect(G_OBJECT(boton), "clicked", G_CALLBACK(conectar), datos);
+client_InterfazGrafica.cpp~:	g_signal_connect(G_OBJECT(botonNo), "clicked", G_CALLBACK(rechazarBatalla), datos);
+client_InterfazGrafica.cpp~:	g_signal_connect(G_OBJECT(botonSi), "clicked", G_CALLBACK(aceptarBatalla), datos);
+client_InterfazGrafica.cpp~:	g_signal_connect(G_OBJECT(botonOk), "clicked", G_CALLBACK(modificar_archivo_gravedad), datos);
+client_InterfazGrafica.cpp~:	g_signal_connect(G_OBJECT(botonCancelar), "clicked", G_CALLBACK(cerrar_ventana), ventanaGravedad);
+client_InterfazGrafica.cpp~:	gtk_signal_connect(GTK_OBJECT(botonContinuar), "clicked", GTK_SIGNAL_FUNC(jugar_solo), pthis);
+client_InterfazGrafica.cpp~:	gtk_signal_connect_object (GTK_OBJECT (botonContinuar), "clicked", GTK_SIGNAL_FUNC (gtk_widget_destroy), GTK_OBJECT (ventanaResultado));
+client_InterfazGrafica.cpp~:	gtk_signal_connect_object (GTK_OBJECT (botonTerminar), "clicked", GTK_SIGNAL_FUNC (gtk_widget_destroy), GTK_OBJECT (ventanaResultado));
+client_InterfazGrafica.cpp~:	g_signal_connect(G_OBJECT(botonConectarAuto), "clicked", G_CALLBACK(apretar_boton_conectar_auto), this);
+client_InterfazGrafica.cpp~:	g_signal_connect(G_OBJECT(botonConectar), "clicked", G_CALLBACK(apretar_boton_conectar), this);
+client_InterfazGrafica.cpp~:	g_signal_connect(G_OBJECT(botonAceptar), "clicked", G_CALLBACK(apretar_boton_aceptar), this);
+client_InterfazGrafica.cpp~:	g_signal_connect(G_OBJECT(botonDesconectar), "clicked", G_CALLBACK(desconectar), this);
+client_InterfazGrafica.cpp~:	g_signal_connect(G_OBJECT(botonJugar), "clicked", G_CALLBACK(jugar_solo), this);
+client_InterfazGrafica.cpp~:	g_signal_connect(G_OBJECT(botonJugarCon), "clicked", G_CALLBACK(jugar_batalla), this);
+client_InterfazGrafica.cpp~:	g_signal_connect(G_OBJECT(botonGravedad), "clicked", G_CALLBACK(modificar_gravedad), this);
+client_InterfazGrafica.h:		/* Se invoca al emitirse la señal clicked del botón */
+Coincidencia en el fichero binario client_InterfazGrafica.o
+ElementoLongitudinal.cpp:	/* Analisis de si se hizo click y en donde */
+ElementoLongitudinal.cpp~:	/* Analisis de si se hizo click y en donde */
+InterfazEdicion.cpp:void mapa_mouseOver(Coordenada click, InterfazMapa * interfaz) {
+InterfazEdicion.cpp:	//if(interfaz->is_clicked() && !mapa->hayElementoSeleccionado())
+InterfazEdicion.cpp:	//	interfaz->setPosicion(click - interfaz->vectorDiferencia);	
+InterfazEdicion.cpp:	if(!interfaz->is_clicked() || !mapa->hayElementoSeleccionado()) return;
+InterfazEdicion.cpp:	// A partir de aca el mapa se encuentra clickeado con un elemento seleccionado 
+InterfazEdicion.cpp:	Coordenada clickCorregido((long)0,(long)0);
+InterfazEdicion.cpp:	bool corregirClick =  mapa->entornoDePuntoDeEnlace(click, &clickCorregido);
+InterfazEdicion.cpp:	Coordenada punto = (corregirClick == true)? clickCorregido : click;
+InterfazEdicion.cpp:void mapa_mouseUp(Coordenada click, InterfazMapa * interfaz) {
+InterfazEdicion.cpp~:void mapa_mouseOver(Coordenada click, InterfazMapa * interfaz) {
+InterfazEdicion.cpp~:	//if(interfaz->is_clicked() && !mapa->hayElementoSeleccionado())
+InterfazEdicion.cpp~:	//	interfaz->setPosicion(click - interfaz->vectorDiferencia);	
+InterfazEdicion.cpp~:	if(!interfaz->is_clicked() || !mapa->hayElementoSeleccionado()) return;
+InterfazEdicion.cpp~:	// A partir de aca el mapa se encuentra clickeado con un elemento seleccionado 
+InterfazEdicion.cpp~:	Coordenada clickCorregido((long)0,(long)0);
+InterfazEdicion.cpp~:	bool corregirClick =  mapa->entornoDePuntoDeEnlace(click, &clickCorregido);
+InterfazEdicion.cpp~:	Coordenada punto = (corregirClick == true)? clickCorregido : click;
+InterfazEdicion.cpp~:void mapa_mouseUp(Coordenada click, InterfazMapa * interfaz) {
+Coincidencia en el fichero binario InterfazEdicion.o
+Mapa.cpp:		cout << "click en la nada " << endl;
+Mapa.cpp:Coordenada Mapa::actualizarModuloAngulo(Coordenada click) {
+Mapa.cpp:	if(((click - elemento->getPosicion()).modulo) < LONGITUD_MINIMA)
+Mapa.cpp:		actualizarAngulo(click);
+Mapa.cpp:		((ElementoLongitudinal *)elemento)->setExtremoOpuesto(click);
+Mapa.cpp:    return click;
+Mapa.cpp:Coordenada Mapa::actualizarAngulo(Coordenada click) {
+Mapa.cpp:		Coordenada resta = click - elemento->getPosicion();
+Mapa.cpp:	return click;
+Mapa.cpp~:		cout << "click en la nada " << endl;
+Mapa.cpp~:Coordenada Mapa::actualizarModuloAngulo(Coordenada click) {
+Mapa.cpp~:	if(((click - elemento->getPosicion()).modulo) < LONGITUD_MINIMA)
+Mapa.cpp~:		actualizarAngulo(click);
+Mapa.cpp~:		((ElementoLongitudinal *)elemento)->setExtremoOpuesto(click);
+Mapa.cpp~:    return click;
+Mapa.cpp~:Coordenada Mapa::actualizarAngulo(Coordenada click) {
+Mapa.cpp~:		Coordenada resta = click - elemento->getPosicion();
+Mapa.cpp~:	return click;
+Coincidencia en el fichero binario Mapa.o
+PanelContenedor.cpp:	clicked = false;
+PanelContenedor.cpp:	clicked = false;
+PanelContenedor.cpp:	if (clicked==false) {
+PanelContenedor.cpp:		clicked = true;
+PanelContenedor.cpp:	if (clicked == true) {
+PanelContenedor.cpp:		clicked = false;
+PanelContenedor.cpp:bool PanelContenedor::is_clicked() const {
+PanelContenedor.cpp:	return clicked;
+PanelContenedor.cpp~:	clicked = false;
+PanelContenedor.cpp~:	clicked = false;
+PanelContenedor.cpp~:	if (clicked==false) {
+PanelContenedor.cpp~:		clicked = true;
+PanelContenedor.cpp~:	if (clicked == true) {
+PanelContenedor.cpp~:		clicked = false;
+PanelContenedor.cpp~:bool PanelContenedor::is_clicked() const {
+PanelContenedor.cpp~:	return clicked;
+PanelContenedor.h:	bool clicked;
+PanelContenedor.h:	bool is_clicked() const;
+PanelContenedor.h~:	bool clicked;
+PanelContenedor.h~:	bool is_clicked() const;
+Coincidencia en el fichero binario PanelContenedor.o
+Ventana.cpp:void Ventana::desclickearBotones(int id_excepcion) {
+Ventana.cpp~:void Ventana::desclickearBotones(int id_excepcion) {
+Ventana.h:	void desclickearBotones(int id_excepcion);
+Ventana.h~:	void desclickearBotones(int id_excepcion);
+Coincidencia en el fichero binario Ventana.o

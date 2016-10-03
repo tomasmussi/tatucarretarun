@@ -1,0 +1,3 @@
+texture_store.o texture_store.deps : texture_store.cpp texture_store.h
+
+texture_store.h:

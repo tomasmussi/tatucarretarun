@@ -1,0 +1,5 @@
+Reloj.o Reloj.deps : Reloj.cpp Reloj.h SDL_image.h
+
+Reloj.h:
+
+SDL_image.h:

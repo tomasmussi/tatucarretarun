@@ -1,0 +1,44 @@
+ParserXML.o ParserXML.deps : ParserXML.cpp ParserXML.h Mapa.h Elemento.h Coordenada.h \
+ Angulo.h constantes.h FabricaDeElementos.h Masa.h ElementoCircular.h \
+ Rueda.h PuntoDeEnlace.h ElementoEnlazable.h PuntoFijo.h Barra.h \
+ ElementoLongitudinal.h Soga.h Plataforma.h Cinta.h Cohete.h Llegada.h
+
+ParserXML.h:
+
+Mapa.h:
+
+Elemento.h:
+
+Coordenada.h:
+
+Angulo.h:
+
+constantes.h:
+
+FabricaDeElementos.h:
+
+Masa.h:
+
+ElementoCircular.h:
+
+Rueda.h:
+
+PuntoDeEnlace.h:
+
+ElementoEnlazable.h:
+
+PuntoFijo.h:
+
+Barra.h:
+
+ElementoLongitudinal.h:
+
+Soga.h:
+
+Plataforma.h:
+
+Cinta.h:
+
+Cohete.h:
+
+Llegada.h:

@@ -1,0 +1,64 @@
+/* Seteos Ventana */
+#define ANCHO_VENTANA 1024
+#define ALTO_VENTANA 600
+
+/* Elementos */
+#define CANTIDAD_ELEMENTOS 8
+
+#define ELEMENTO_A_BORRAR -2
+#define NINGUN_ELEMENTO -1
+#define MASA 0
+#define PUNTO_FIJO 1 
+#define RUEDA 2
+#define BARRA 3
+#define PLATAFORMA 4
+#define SOGA 5
+#define CINTA 6
+#define COHETE 7
+#define BORRAR_TODO 8
+#define BORRAR_ELEMENTO 9
+#define CIRCULAR 10
+#define LONGITUDINAL 11
+#define ENLAZABLE 12
+#define PUNTO_ENLACE 13
+#define ZONA_LLEGADA 16
+#define VOID 17
+
+/* Texturas para paneles */
+#define TEXTURA_DEFECTO 0
+#define TEXTURA_MOUSEDOWN 1
+#define TEXTURA_MOUSEOVER 2
+#define TEXTURA_INHABILITADO 3
+/* Texturas para el mapa */
+#define TEXTURA_MASA 4
+#define TEXTURA_PUNTO_FIJO 5
+#define TEXTURA_RUEDA 6
+#define TEXTURA_BARRA 7
+#define TEXTURA_PLATAFORMA 8
+#define TEXTURA_SOGA 9
+#define TEXTURA_CINTA 10
+#define TEXTURA_COHETE 11
+#define PLAY 12
+#define SALIR 13
+#define SMS 14
+#define TEXTURA_ZONA_LLEGADA 15
+
+
+/* Seteos graficos */
+#define POLY_SIDES 12
+
+/* Tipos de seleccion de elemento */
+#define ELEMENTO_NO_SELECCIONADO 0
+#define ELEMENTO_SELECCIONADO_POR_EXTREMO1 1
+#define ELEMENTO_SELECCIONADO_POR_EXTREMO2 2
+#define ELEMENTO_SELECCIONADO_POR_CENTRO 3
+#define MARGEN_DE_AGARRE 20
+#define MARGEN_DE_AGARRE_ANCHO 5
+#define LONGITUD_MINIMA 20
+#define LONGITUD_MAXIMA 100
+#define LONGITUD_COHETE 100
+#define PI 3.1415926535897932384626433832795
+#define CTE_A 2000
+#define CTE_B 1
+#define CTE_C 4000
+#define CTE_D 1

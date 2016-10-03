@@ -1,0 +1,72 @@
+PanelContenedor.o PanelContenedor.deps : PanelContenedor.cpp PanelContenedor.h SDL.h \
+ SDL_image.h Coordenada.h Angulo.h constantes.h Ventana.h \
+ client_ChatDoble.h common_Mutex.h Reloj.h constantes_sms.h Mapa.h \
+ Elemento.h FabricaDeElementos.h Masa.h ElementoCircular.h Rueda.h \
+ PuntoDeEnlace.h ElementoEnlazable.h PuntoFijo.h Barra.h \
+ ElementoLongitudinal.h Soga.h Plataforma.h Cinta.h Cohete.h Llegada.h \
+ hiloCron.h common_SocketCliente.h common_Socket.h common_Thread.h \
+ cronometro.h
+
+PanelContenedor.h:
+
+SDL.h:
+
+SDL_image.h:
+
+Coordenada.h:
+
+Angulo.h:
+
+constantes.h:
+
+Ventana.h:
+
+client_ChatDoble.h:
+
+common_Mutex.h:
+
+Reloj.h:
+
+constantes_sms.h:
+
+Mapa.h:
+
+Elemento.h:
+
+FabricaDeElementos.h:
+
+Masa.h:
+
+ElementoCircular.h:
+
+Rueda.h:
+
+PuntoDeEnlace.h:
+
+ElementoEnlazable.h:
+
+PuntoFijo.h:
+
+Barra.h:
+
+ElementoLongitudinal.h:
+
+Soga.h:
+
+Plataforma.h:
+
+Cinta.h:
+
+Cohete.h:
+
+Llegada.h:
+
+hiloCron.h:
+
+common_SocketCliente.h:
+
+common_Socket.h:
+
+common_Thread.h:
+
+cronometro.h:

@@ -1,0 +1,91 @@
+client_InterfazGrafica.o client_InterfazGrafica.deps : client_InterfazGrafica.cpp \
+ client_InterfazGrafica.h common_Thread.h common_Mutex.h \
+ client_ContactaServer.h common_SocketCliente.h common_Socket.h \
+ client_InterfazBatalla.h client_HiloMovimientos.h Mapa.h Elemento.h \
+ Coordenada.h Angulo.h constantes.h FabricaDeElementos.h Masa.h \
+ ElementoCircular.h Rueda.h PuntoDeEnlace.h ElementoEnlazable.h \
+ PuntoFijo.h Barra.h ElementoLongitudinal.h Soga.h Plataforma.h Cinta.h \
+ Cohete.h Llegada.h client_ChatDoble.h SDL_image.h \
+ client_InterfazJugarSolo.h ParserXML.h InterfazEdicion.h Ventana.h \
+ PanelContenedor.h Reloj.h constantes_sms.h hiloCron.h cronometro.h \
+ Boton.h InterfazMapa.h
+
+client_InterfazGrafica.h:
+
+common_Thread.h:
+
+common_Mutex.h:
+
+client_ContactaServer.h:
+
+common_SocketCliente.h:
+
+common_Socket.h:
+
+client_InterfazBatalla.h:
+
+client_HiloMovimientos.h:
+
+Mapa.h:
+
+Elemento.h:
+
+Coordenada.h:
+
+Angulo.h:
+
+constantes.h:
+
+FabricaDeElementos.h:
+
+Masa.h:
+
+ElementoCircular.h:
+
+Rueda.h:
+
+PuntoDeEnlace.h:
+
+ElementoEnlazable.h:
+
+PuntoFijo.h:
+
+Barra.h:
+
+ElementoLongitudinal.h:
+
+Soga.h:
+
+Plataforma.h:
+
+Cinta.h:
+
+Cohete.h:
+
+Llegada.h:
+
+client_ChatDoble.h:
+
+SDL_image.h:
+
+client_InterfazJugarSolo.h:
+
+ParserXML.h:
+
+InterfazEdicion.h:
+
+Ventana.h:
+
+PanelContenedor.h:
+
+Reloj.h:
+
+constantes_sms.h:
+
+hiloCron.h:
+
+cronometro.h:
+
+Boton.h:
+
+InterfazMapa.h:

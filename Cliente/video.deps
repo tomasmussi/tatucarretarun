@@ -1,0 +1,77 @@
+video.o video.deps : video.cpp video.h config.h loader.h spring_mass_system.h \
+ vector2.h hiloCron.h common_SocketCliente.h common_Socket.h \
+ common_Thread.h common_Mutex.h cronometro.h elementManager.h element.h \
+ zonaLlegada.h Mapa.h Elemento.h Coordenada.h Angulo.h constantes.h \
+ FabricaDeElementos.h Masa.h ElementoCircular.h Rueda.h PuntoDeEnlace.h \
+ ElementoEnlazable.h PuntoFijo.h Barra.h ElementoLongitudinal.h Soga.h \
+ Plataforma.h Cinta.h Cohete.h Llegada.h SDL.h SDL_image.h
+
+video.h:
+
+config.h:
+
+loader.h:
+
+spring_mass_system.h:
+
+vector2.h:
+
+hiloCron.h:
+
+common_SocketCliente.h:
+
+common_Socket.h:
+
+common_Thread.h:
+
+common_Mutex.h:
+
+cronometro.h:
+
+elementManager.h:
+
+element.h:
+
+zonaLlegada.h:
+
+Mapa.h:
+
+Elemento.h:
+
+Coordenada.h:
+
+Angulo.h:
+
+constantes.h:
+
+FabricaDeElementos.h:
+
+Masa.h:
+
+ElementoCircular.h:
+
+Rueda.h:
+
+PuntoDeEnlace.h:
+
+ElementoEnlazable.h:
+
+PuntoFijo.h:
+
+Barra.h:
+
+ElementoLongitudinal.h:
+
+Soga.h:
+
+Plataforma.h:
+
+Cinta.h:
+
+Cohete.h:
+
+Llegada.h:
+
+SDL.h:
+
+SDL_image.h:

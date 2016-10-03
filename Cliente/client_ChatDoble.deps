@@ -1,0 +1,8 @@
+client_ChatDoble.o client_ChatDoble.deps : client_ChatDoble.cpp client_ChatDoble.h SDL_image.h \
+ common_Mutex.h
+
+client_ChatDoble.h:
+
+SDL_image.h:
+
+common_Mutex.h:

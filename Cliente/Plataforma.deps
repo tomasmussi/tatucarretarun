@@ -1,0 +1,21 @@
+Plataforma.o Plataforma.deps : Plataforma.cpp Plataforma.h ElementoLongitudinal.h \
+ Elemento.h Coordenada.h Angulo.h constantes.h PuntoDeEnlace.h \
+ ElementoEnlazable.h ElementoCircular.h
+
+Plataforma.h:
+
+ElementoLongitudinal.h:
+
+Elemento.h:
+
+Coordenada.h:
+
+Angulo.h:
+
+constantes.h:
+
+PuntoDeEnlace.h:
+
+ElementoEnlazable.h:
+
+ElementoCircular.h:

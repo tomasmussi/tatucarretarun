@@ -1,0 +1,86 @@
+sms_app.o sms_app.deps : sms_app.cpp sms_app.h config_file.h config.h \
+ spring_mass_system.h vector2.h hiloCron.h common_SocketCliente.h \
+ common_Socket.h common_Thread.h common_Mutex.h cronometro.h \
+ elementManager.h element.h zonaLlegada.h Mapa.h Elemento.h Coordenada.h \
+ Angulo.h constantes.h FabricaDeElementos.h Masa.h ElementoCircular.h \
+ Rueda.h PuntoDeEnlace.h ElementoEnlazable.h PuntoFijo.h Barra.h \
+ ElementoLongitudinal.h Soga.h Plataforma.h Cinta.h Cohete.h Llegada.h \
+ video.h loader.h SDL.h SDL_image.h Reloj.h constantes_sms.h
+
+sms_app.h:
+
+config_file.h:
+
+config.h:
+
+spring_mass_system.h:
+
+vector2.h:
+
+hiloCron.h:
+
+common_SocketCliente.h:
+
+common_Socket.h:
+
+common_Thread.h:
+
+common_Mutex.h:
+
+cronometro.h:
+
+elementManager.h:
+
+element.h:
+
+zonaLlegada.h:
+
+Mapa.h:
+
+Elemento.h:
+
+Coordenada.h:
+
+Angulo.h:
+
+constantes.h:
+
+FabricaDeElementos.h:
+
+Masa.h:
+
+ElementoCircular.h:
+
+Rueda.h:
+
+PuntoDeEnlace.h:
+
+ElementoEnlazable.h:
+
+PuntoFijo.h:
+
+Barra.h:
+
+ElementoLongitudinal.h:
+
+Soga.h:
+
+Plataforma.h:
+
+Cinta.h:
+
+Cohete.h:
+
+Llegada.h:
+
+video.h:
+
+loader.h:
+
+SDL.h:
+
+SDL_image.h:
+
+Reloj.h:
+
+constantes_sms.h:

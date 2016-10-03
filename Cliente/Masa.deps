@@ -1,0 +1,14 @@
+Masa.o Masa.deps : Masa.cpp Masa.h ElementoCircular.h Elemento.h Coordenada.h \
+ Angulo.h constantes.h
+
+Masa.h:
+
+ElementoCircular.h:
+
+Elemento.h:
+
+Coordenada.h:
+
+Angulo.h:
+
+constantes.h:

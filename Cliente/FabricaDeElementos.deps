@@ -1,0 +1,40 @@
+FabricaDeElementos.o FabricaDeElementos.deps : FabricaDeElementos.cpp FabricaDeElementos.h \
+ Coordenada.h Angulo.h constantes.h Elemento.h Masa.h ElementoCircular.h \
+ Rueda.h PuntoDeEnlace.h ElementoEnlazable.h PuntoFijo.h Barra.h \
+ ElementoLongitudinal.h Soga.h Plataforma.h Cinta.h Cohete.h Llegada.h
+
+FabricaDeElementos.h:
+
+Coordenada.h:
+
+Angulo.h:
+
+constantes.h:
+
+Elemento.h:
+
+Masa.h:
+
+ElementoCircular.h:
+
+Rueda.h:
+
+PuntoDeEnlace.h:
+
+ElementoEnlazable.h:
+
+PuntoFijo.h:
+
+Barra.h:
+
+ElementoLongitudinal.h:
+
+Soga.h:
+
+Plataforma.h:
+
+Cinta.h:
+
+Cohete.h:
+
+Llegada.h:

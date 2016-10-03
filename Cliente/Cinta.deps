@@ -1,0 +1,21 @@
+Cinta.o Cinta.deps : Cinta.cpp Cinta.h ElementoLongitudinal.h Elemento.h Coordenada.h \
+ Angulo.h constantes.h PuntoDeEnlace.h ElementoEnlazable.h \
+ ElementoCircular.h
+
+Cinta.h:
+
+ElementoLongitudinal.h:
+
+Elemento.h:
+
+Coordenada.h:
+
+Angulo.h:
+
+constantes.h:
+
+PuntoDeEnlace.h:
+
+ElementoEnlazable.h:
+
+ElementoCircular.h:

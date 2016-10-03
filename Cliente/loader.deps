@@ -1,0 +1,86 @@
+loader.o loader.deps : loader.cpp PanelContenedor.h SDL.h SDL_image.h Coordenada.h \
+ Angulo.h constantes.h Ventana.h client_ChatDoble.h common_Mutex.h \
+ Reloj.h constantes_sms.h Mapa.h Elemento.h FabricaDeElementos.h Masa.h \
+ ElementoCircular.h Rueda.h PuntoDeEnlace.h ElementoEnlazable.h \
+ PuntoFijo.h Barra.h ElementoLongitudinal.h Soga.h Plataforma.h Cinta.h \
+ Cohete.h Llegada.h hiloCron.h common_SocketCliente.h common_Socket.h \
+ common_Thread.h cronometro.h loader.h spring_mass_system.h config.h \
+ vector2.h elementManager.h element.h zonaLlegada.h
+
+PanelContenedor.h:
+
+SDL.h:
+
+SDL_image.h:
+
+Coordenada.h:
+
+Angulo.h:
+
+constantes.h:
+
+Ventana.h:
+
+client_ChatDoble.h:
+
+common_Mutex.h:
+
+Reloj.h:
+
+constantes_sms.h:
+
+Mapa.h:
+
+Elemento.h:
+
+FabricaDeElementos.h:
+
+Masa.h:
+
+ElementoCircular.h:
+
+Rueda.h:
+
+PuntoDeEnlace.h:
+
+ElementoEnlazable.h:
+
+PuntoFijo.h:
+
+Barra.h:
+
+ElementoLongitudinal.h:
+
+Soga.h:
+
+Plataforma.h:
+
+Cinta.h:
+
+Cohete.h:
+
+Llegada.h:
+
+hiloCron.h:
+
+common_SocketCliente.h:
+
+common_Socket.h:
+
+common_Thread.h:
+
+cronometro.h:
+
+loader.h:
+
+spring_mass_system.h:
+
+config.h:
+
+vector2.h:
+
+elementManager.h:
+
+element.h:
+
+zonaLlegada.h:

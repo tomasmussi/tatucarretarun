@@ -1,0 +1,29 @@
+<mapa>
+	<nombre>aaaa</nombre>
+	<plata>19990</plata>
+	<elementos>
+		<elemento>
+			<tipo>Longitudinal:Cinta</tipo>
+			<magnitud>450</magnitud>
+			<angulo>379</angulo>
+			<posicion>
+				<x>304</x>
+				<y>375</y>
+			</posicion>
+			<extremo_opuesto>
+				<x>730</x>
+				<y>228</y>
+			</extremo_opuesto>
+		</elemento>
+	<habilitados>
+		<Masa>SI</Masa>
+		<Punto_Fijo>SI</Punto_Fijo>
+		<Rueda>SI</Rueda>
+		<Barra>SI</Barra>
+		<Plataforma>SI</Plataforma>
+		<Soga>SI</Soga>
+		<Cinta>SI</Cinta>
+		<Cohete>SI</Cohete>
+	</habilitados>
+	</elementos>
+</mapa>

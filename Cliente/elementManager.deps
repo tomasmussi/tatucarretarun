@@ -1,0 +1,8 @@
+elementManager.o elementManager.deps : elementManager.cpp elementManager.h element.h \
+ zonaLlegada.h
+
+elementManager.h:
+
+element.h:
+
+zonaLlegada.h:

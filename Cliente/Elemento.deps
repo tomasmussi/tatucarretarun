@@ -1,0 +1,9 @@
+Elemento.o Elemento.deps : Elemento.cpp Elemento.h Coordenada.h Angulo.h constantes.h
+
+Elemento.h:
+
+Coordenada.h:
+
+Angulo.h:
+
+constantes.h:

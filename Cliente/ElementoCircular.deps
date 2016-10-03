@@ -1,0 +1,12 @@
+ElementoCircular.o ElementoCircular.deps : ElementoCircular.cpp ElementoCircular.h Elemento.h \
+ Coordenada.h Angulo.h constantes.h
+
+ElementoCircular.h:
+
+Elemento.h:
+
+Coordenada.h:
+
+Angulo.h:
+
+constantes.h:
